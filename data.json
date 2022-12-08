@@ -1,0 +1,14 @@
+{
+  "todo": [
+    {
+      "todo": "react-query! useMutation! invalidateQueries",
+      "id": 1
+    }
+  ],
+  "state": [
+    {
+      "id": 1,
+      "state": "progressing"
+    }
+  ]
+}
